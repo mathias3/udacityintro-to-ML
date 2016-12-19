@@ -38,7 +38,7 @@ def parseOutText(f):
 
 
 
-    return stem_word
+    return words
 
     
 
